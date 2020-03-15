@@ -31,7 +31,9 @@ public class SubsistemaLanzador extends SubsystemBase
 
 
   }
-
+/**
+ * Este metodo es para el movimiento del angulo
+ */
   public void MovimientoAngulo(double angulo)
   {
 
